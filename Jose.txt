@@ -1,0 +1,3 @@
+¿Para qué sirve establecer el parámetro --global? ¿Funcionaría si no lo ponemos?
+La opción --global se asegura de que esta configuración sea válida para todos los proyectos en los que trabajes en esa máquina. Si deseas configurar un nombre o correo electrónico diferente para un proyecto específico, puedes omitir el flag --global y ejecutar los comandos dentro del directorio del proyecto.
+
